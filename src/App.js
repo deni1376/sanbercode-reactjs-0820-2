@@ -4,12 +4,13 @@ import './App.css';
 //import DaftarBuah from './Tugas-10/tugas10.js';
 //import Timer from './Tugas-11/timer.js'
 //import Lists from './Tugas-12/listForm.js'
-import Example from './Tugas-13/hooksApi.js'
+import DaftarBuah from './Tugas-13/hooksApi.js'
+import Buah from './Materi-14/Buah.js'
 
 function App() {
   return (
     <div>
-      <Example/>
+      <Buah/>
     </div>
   );
 }
