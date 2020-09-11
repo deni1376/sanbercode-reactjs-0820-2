@@ -8,7 +8,7 @@ let dataHargaBuah = [
     {nama: "Mangga", harga: 30000, berat: 500}
   ]
 
-class DaftarBuah extends React.Component {
+class PropsBuah extends React.Component {
   render() {
       const DaftarBuah=this.props.dataHargaBuah
     return (
@@ -43,4 +43,4 @@ class DaftarBuah extends React.Component {
 
 
 
-export default DaftarBuah
+export default PropsBuah

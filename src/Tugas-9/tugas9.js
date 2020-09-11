@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Tugas9 extends React.Component {
+class Pendahuluan extends React.Component {
   render() {
     return (
       <div style={{width: "40%", margin: "0 auto", marginTop: "20px", border: "1px solid #000", borderRadius: "20px"}}>
@@ -37,4 +37,4 @@ class Tugas9 extends React.Component {
   );
 }
 }
-export default Tugas9
+export default Pendahuluan
